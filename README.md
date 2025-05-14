@@ -12,7 +12,7 @@ Built with:
 
 ## Link to Live Site
 
-[https://rwhitlock-codes.github.io/About-Me/]
+[https://rwhitlock-codes.github.io/About-me/]
 
 ## Author
 
